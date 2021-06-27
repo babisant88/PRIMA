@@ -4,7 +4,7 @@ In order to build the program just call make.
 
 In order to run the progrma type in the command line %Prima <C> <G> <B> <D> <n> <N> <q>
 
-, where C is the Capacitance matrix, G is the Conductance matrix, B is the input port-to-node connectivity matrix, 
-D is the output port-to-node connectivity matrix, n is the total number of nodes, N is the number of ports and q is the number of
-moments to match in the reduced model.
+,where C is the Capacitance matrix, G is the Conductance matrix, B is the input port-to-node connectivity matrix, 
+D is the output port-to-node connectivity matrix, n is the total number of nodes, N is the number of ports and q is 
+the number of moments to match in the reduced model.
 
