@@ -11,7 +11,7 @@
 #include <fstream>
 #include <cstring>
 
-//#include "../hpp/aux.hpp"
+#include "../hpp/aux.hpp"
 
 #define dbg 0
 

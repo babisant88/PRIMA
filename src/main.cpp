@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-//#include "../hpp/aux.hpp"
+#include "../hpp/aux.hpp"
 #include "../hpp/sys.hpp"
 #include "../hpp/load_input.hpp"
 #include "../hpp/sim.hpp"

@@ -12,7 +12,7 @@
 #include <string>
 
 #include <eigen3/Eigen/SparseCholesky>
-//#include "../hpp/aux.hpp"
+#include "../hpp/aux.hpp"
 
 using namespace Eigen;
 using namespace std;

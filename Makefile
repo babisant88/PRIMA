@@ -60,5 +60,8 @@ $(OBJDIR)/sim.o: $(SRCDIR)/sim.cpp
 $(OBJDIR)/sys.o: $(SRCDIR)/sys.cpp
 	$(CC) -c $(SRCDIR)/sys.cpp $(CFLAGS) -o $(OBJDIR)/sys.o
 
+$(OBJDIR)/aux.o: $(SRCDIR)/aux.cpp
+	$(CC) -c $(SRCDIR)/aux.cpp $(CFLAGS) -o $(OBJDIR)/aux.o
+
 clean:
 	rm -rf *~ $(SRCDIR)/*~ $(OBJDIR) Prima
