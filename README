@@ -1,6 +1,7 @@
 The program is an implementation of the PRIMA algorithm (shown in Fig. 4 of the attached paper).
 
-In order to build the program just call make.
+Make sure that you have already installed the Eigen library in your system (https://eigen.tuxfamily.org/index.php?title=Main_Page).
+In order to build the program just run make.
 
 In order to run the progrma type in the command line %Prima <C> <G> <B> <D> <n> <N> <q>
 
